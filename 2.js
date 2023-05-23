@@ -9,3 +9,7 @@ console.log(typeof pi);
 // primitive data types
 // numbers,strings and boolean values
 //Structural datata types-objects
+
+
+// What is the use of double not (!!) operator?
+// It is used to convert any non-boolean value to boolean value
